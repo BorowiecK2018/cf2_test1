@@ -1,8 +1,8 @@
 body{
-background-color:red;
+background-color:black;
 }
-img{
-height: 20vh;
+.img{
+height:20vh;
 }
 
 /*problem 4: 10 points each
@@ -15,12 +15,11 @@ height:50vh;
 
 .evilSide{
 height:50vh;
-
+background-color:red;
 }
 
 .robotSide{
 height:50vh;
-
+background-color:black;
 }
-
 
